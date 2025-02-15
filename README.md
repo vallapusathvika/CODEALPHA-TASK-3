@@ -52,3 +52,4 @@ The model’s performance is evaluated using several metrics:
 A regression plot is created using **seaborn** to compare the actual vs. predicted selling prices. The plot helps visualize how well the model’s predictions align with the actual data points.
 
 In summary, this code processes a car sales dataset, fills missing data, encodes categorical variables, trains a random forest regression model, evaluates its performance, and visualizes the results in a Jupyter Notebook environment. The goal is to predict the selling price of cars based on various features like their present price, driven kilometers, year of manufacture, and others.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/315c83f2-ad8d-4601-acd4-3e3374a3b907)
